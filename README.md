@@ -14,7 +14,6 @@ Este projeto, desenvolvido em **Python** utilizando **Jupyter Notebook**, tem co
 ✔️ **Download de Cotações Históricas** de ações e do Índice Bovespa  
 ✔️ **Cálculo da Rentabilidade** individual de cada ativo  
 ✔️ **Cálculo da Rentabilidade Total** da carteira e comparação com o Índice Bovespa  
-✔️ **Geração de Gráficos** para visualizar a evolução dos ativos e da carteira  
 
 ---
 
